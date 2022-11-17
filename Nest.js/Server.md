@@ -1,0 +1,5 @@
+- Pipe (Validate data contained in the request)
+- Guard (Make sure the user is authenticated)
+- Controller (Route the request to a particular function)
+- Service (Run some bussiness logic)
+- Repository (Access a database)

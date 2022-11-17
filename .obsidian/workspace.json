@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "b6be076673839001",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc98e6ec9983b02c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b3e12619befbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nest.js/Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1e16754a97b34d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "562e844d93b52b5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b913185eb1c2ab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "188312eac9d2fd45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "375f72e2cd344db0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "219127298cc078be",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8c77176d0eee130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c73b596ef0b5bf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nest.js/Server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7b1ac31c2bbb60e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nest.js/Server.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b60e0198e30e6fd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "257535c127e9235c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nest.js/Server.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "43b3e12619befbe2",
+  "lastOpenFiles": [
+    "Nest.js/Dependency Injection.md",
+    "Nest.js/Generate with Nest CLI.md",
+    "Nest.js/Server.md",
+    "Untitled.md",
+    "React.js/React.js.md"
+  ]
+}

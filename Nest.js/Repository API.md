@@ -1,0 +1,5 @@
+- create() - Makes new instance of an entity, but does not persist it to the DB
+- save() - Adds or updates a record to the DB
+- find() - Runs a query and returns a list of entities
+- findOne() - Run a query, returning the first record matching search criteria
+- remove() - Remove a record from DB

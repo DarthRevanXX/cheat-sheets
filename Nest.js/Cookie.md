@@ -1,0 +1,6 @@
+- Cookie-Session library looks at the 'Cookie' header
+- Cookie-Session decoded the string, resulting in the object
+- We get access to session object in a request handler using a decorator
+- We add/remove/change object in a request handler using a decorator
+- We add/remove/change properties on the session object
+- Cookie-Session sees the updated session and turns it into an encrypted string

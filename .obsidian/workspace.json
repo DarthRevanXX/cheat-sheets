@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6b81971bd1b3119",
+            "id": "4cd3651ddf23631f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/API Gateway.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a70a99f21205eb60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Knowledge/Circuit Breaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "173364cb52b1aa81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postgress/Best Practices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a8778cec044ab83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Knowledge/Facade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9b145dd333e5b82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Knowledge/Service Mesh.md",
+                "file": "Nest.js/TypeORM Running Migrations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Knowledge/Service Mesh.md",
+                "file": "Nest.js/TypeORM Running Migrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Knowledge/Service Mesh.md",
+                "file": "Nest.js/TypeORM Running Migrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Knowledge/Service Mesh.md"
+                "file": "Nest.js/TypeORM Running Migrations.md"
               }
             }
           }
@@ -185,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9b145dd333e5b82",
+  "active": "4cd3651ddf23631f",
   "lastOpenFiles": [
+    "Algo & Data Structures/Top 6 interview concepts.md",
+    "Untitled.md",
+    "RPC, gRPC.md",
+    "General Knowledge/RPC, gRPC.md",
+    "General Knowledge/Service Mesh.md",
     "General Knowledge/Facade.md",
     "Postgress/Best Practices.md",
     "General Knowledge/Circuit Breaker.md",
     "General Knowledge/API Gateway.md",
-    "General Knowledge/OSI model.md",
-    "General Knowledge/Proxy vs Reverse Proxy.md",
-    "General Knowledge/Connection Pooling.md",
-    "General knowledge.md",
-    "Postgress/Filtering Records.md",
-    "Postgress/SQL Statements.md"
+    "General Knowledge/OSI model.md"
   ]
 }

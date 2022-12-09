@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62a745025c632105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Basic commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nest.js/TypeORM Running Migrations.md",
+                "file": "Linux/Basic commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nest.js/TypeORM Running Migrations.md",
+                "file": "Linux/Basic commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nest.js/TypeORM Running Migrations.md"
+                "file": "Linux/Basic commands.md"
               }
             }
           }
@@ -136,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cd3651ddf23631f",
+  "active": "62a745025c632105",
   "lastOpenFiles": [
+    "Nest.js/TypeORM Running Migrations.md",
     "Algo & Data Structures/Top 6 interview concepts.md",
     "Untitled.md",
     "RPC, gRPC.md",
@@ -146,7 +160,6 @@
     "General Knowledge/Facade.md",
     "Postgress/Best Practices.md",
     "General Knowledge/Circuit Breaker.md",
-    "General Knowledge/API Gateway.md",
-    "General Knowledge/OSI model.md"
+    "General Knowledge/API Gateway.md"
   ]
 }

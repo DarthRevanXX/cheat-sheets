@@ -8,6 +8,7 @@
 - `cp -r` - cory directory with everything inside( cp -r my_dir /tpm/my_dir1)
 
 ## Commands - Files
+
 - `touch` - create a file (touch test.txt)
 - `cat` - read the file 
 - `cat > new_file.txt` - add contents to file

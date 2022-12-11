@@ -1,0 +1,9 @@
+- `i` insert mode
+- `Esc` - to command mode
+- `x` - delete character; `dd` - delete a line
+- `yy` - copy; `p` - paste
+- `ctrl + u` - scroll up; `ctrl + d` - scroll down
+- `:w`  - write to file
+- `:q` - quit
+- `:wq` - save and quit
+- `/of` - find; `n` - move cursor

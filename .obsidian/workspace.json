@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Consistent Hashing.md",
+                "file": "Nest.js/Generate with Nest CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Knowledge/Consistent Hashing.md",
+                "file": "Nest.js/Generate with Nest CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Knowledge/Consistent Hashing.md",
+                "file": "Nest.js/Generate with Nest CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Knowledge/Consistent Hashing.md"
+                "file": "Nest.js/Generate with Nest CLI.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "bd69e68ce7253cb4",
   "lastOpenFiles": [
+    "Nest.js/Server.md",
+    "Postgress/Filtering Records.md",
+    "General Knowledge/Consistent Hashing.md",
     "Linux/Virtual Box.md",
     "Linux/Services.md",
     "Linux/Vim Basic Commands.md",
     "Linux/Package Manager(CentOS).md",
     "Linux/Basic commands.md",
     "Nest.js/TypeORM Running Migrations.md",
-    "General Knowledge/Http 1.1 vs Htpp 2 and 3.md",
-    "Algo & Data Structures/Top 6 interview concepts.md",
-    "Untitled.md",
-    "RPC, gRPC.md"
+    "General Knowledge/Http 1.1 vs Htpp 2 and 3.md"
   ]
 }
